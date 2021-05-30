@@ -5,4 +5,4 @@ show text based on index
 
 
 
-autoride text feature we give text and usesjavascript to auto-write itself 
+autowrites text feature we give text & uses javascript to auto-write itself 
